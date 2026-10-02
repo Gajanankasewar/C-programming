@@ -11,7 +11,7 @@ int main()
 {
 	struct student s1;
 	s1.id=1;
-    strcpy(s1.name,"anirudh");
+    strcpy(s1.name,"Anirudh");
 	s1.age=23;
 	s1.marks=99;
 	
