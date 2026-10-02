@@ -7,7 +7,7 @@ struct student
 	int age;
 	float marks;
 };
-int main()
+int main() 
 {
 	struct student s1;
 	s1.id=1;
